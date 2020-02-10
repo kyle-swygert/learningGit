@@ -1,0 +1,1 @@
+[print('Hello World: ' + str(i)) for i in range(0, 15)]
